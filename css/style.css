@@ -149,7 +149,7 @@ li.qrcode img {
 .worky_box2::before {
     background-color: transparent;
 }
-.work_boxy::after {
+/*.work_boxy::after {
     content: '';
     position: absolute;
     width: 20px;
@@ -160,7 +160,7 @@ li.qrcode img {
     top: 0;
     border-radius: 50%;
     z-index: 1;
-}
+}*/
 .work_boxy {
     position: relative;
     margin-bottom: 70px;
